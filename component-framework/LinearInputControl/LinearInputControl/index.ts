@@ -32,7 +32,7 @@ export class LinearInputControl implements ComponentFramework.StandardControl<II
 	// Reference to ComponentFramework Context object
 	private _context: ComponentFramework.Context<IInputs>;
 
-	// Event Handelr 'refreshData' reference
+	// Event Handler 'refreshData' reference
 	private _refreshData: EventListenerOrEventListenerObject;
 
 	/**
